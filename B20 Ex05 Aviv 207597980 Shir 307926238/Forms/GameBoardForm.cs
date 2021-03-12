@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Windows.Forms;
 using System.Collections.Generic;
 
-namespace B20_Ex05_Aviv_207597980_Shir_307926238
+namespace MemoryGame
 {
     public class GameBoardForm : Form
     {

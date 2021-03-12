@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Drawing;
 
-namespace B20_Ex05_Aviv_207597980_Shir_307926238
+namespace MemoryGame
 {
     public class ComputerPlayer : Player
     {

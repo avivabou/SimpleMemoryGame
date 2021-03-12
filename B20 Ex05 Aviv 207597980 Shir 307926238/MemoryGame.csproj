@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{3FB4854B-2EA5-41E2-B374-B1EC625A18FE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>B20_Ex05_Aviv_207597980_Shir_307926238</RootNamespace>
-    <AssemblyName>B20 Ex05 Aviv 207597980 Shir 307926238</AssemblyName>
+    <RootNamespace>MemoryGame</RootNamespace>
+    <AssemblyName>MemoryGame</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
